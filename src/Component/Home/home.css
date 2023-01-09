@@ -1,0 +1,17 @@
+.item-box {
+  box-sizing: border-box;
+  overflow: hidden;
+  height: 277px;
+}
+
+.itemContent {
+  height: 50px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.item-img {
+  display: flex;
+  align-items: flex-start;
+  background-color: tan;
+}/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,11 @@
+.dropdown-item.active {
+  color: rgb(56, 53, 53);
+  background-color: white;
+}
+.prand{
+  font-size: 2.5rem;
+  font-family:fantasy
+}
+.nav-item:hover ul {
+  display: block;
+}/*# sourceMappingURL=Navbar.css.map */

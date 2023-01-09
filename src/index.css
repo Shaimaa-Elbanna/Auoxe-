@@ -1,0 +1,44 @@
+body {
+ margin-top: 15px;
+ background-color: #131722;
+ color: #fff;
+
+}
+
+/* .bg-transparent{
+  background-color: rgba(36, 186, 239, .6);
+  color: #FFF;
+} */
+
+a, a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.bdr{
+  height: 1px;
+  background-color: rgba(204, 204, 204, 0.507);
+}
+.loading{
+
+  position: fixed;
+  top:200px;
+  left:0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: #131722;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.item-zoom{
+  transition: all 0.5s;
+}
+.item-zoom:hover{
+  transform: scale(1.1);
+}
+.cursor{
+  cursor: pointer;
+}

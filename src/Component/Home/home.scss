@@ -1,0 +1,23 @@
+// .img-Preview{
+//     border: rgb(129, 129, 129) solid 0.5px;
+//   border-radius: 30px;
+//   background-size:cover;
+//   background-repeat:none;
+// }
+.item-box{
+
+    box-sizing: border-box;
+    overflow: hidden;
+  height: 277px;
+}
+
+.itemContent{
+    height: 50px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.item-img{
+    display: flex;
+    align-items: flex-start;
+    background-color: tan;
+}
